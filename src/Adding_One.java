@@ -19,3 +19,9 @@ public class Adding_One {
 
     }
 }
+
+//everytime you add a  code to here you have to run this commands so as to add this code to your repo
+
+//git add .
+//git commit -m "Added array rotation solution"
+//git push
