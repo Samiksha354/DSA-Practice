@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a21264f-981e-45d8-b830-11f70acb5234" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Sorting_Algorithams/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays2D/basic_2d_arrray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays2D/basic_2d_arrray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/Basic_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursion/Basic_Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching_Algorithm/searching_binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Searching_Algorithm/searching_binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting_Algorithams/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting_Algorithams/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string_basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string_basic.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Samiksha354"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Samiksha354/DSA-Practice.git",
+    "accountId": "6b3f5419-aa95-41f2-9291-ae27a1035310"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="39bNvxfc0TGcG5OXVqqFMM2AVnF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/samik/OneDrive/Desktop/Pure_DSA/DSA-Practice/src/Strings"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a21264f-981e-45d8-b830-11f70acb5234" name="Changes" comment="" />
+      <created>1770961044803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770961044803</updated>
+    </task>
+    <servers />
+  </component>
+</project>
